@@ -1,6 +1,7 @@
 public class Aufgab2_1810653261 {
 
     public static void main(String[] args) {
+
         String name=("Alex"); // Der Datentyp String hat als Wertebereich Buchstaben
         System.out.println("" + name); // Ausgabe des Datentyps string mit dem Wert "Alex"
 
@@ -31,7 +32,6 @@ public class Aufgab2_1810653261 {
 
         int zahl=(218); // Eine Variable hat einen unbestimmten Wert, eine Konstanten hat einen festen Zugewisenen Wert
         System.out.println("" + zahl);
-
 
     }
 }
