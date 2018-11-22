@@ -30,7 +30,7 @@ public class Aufgab2_1810653261 {
                                     //mit einfacher Genauigkeit
         System.out.println("" + fließKommazahlen); // Ausgabe des Datentyps float mit dem Wert 3
 
-        int zahl=(218); // Eine Variable hat einen unbestimmten Wert, eine Konstanten hat einen festen Zugewisenen Wert
+        final int zahl=(218); // Eine Variable hat einen unbestimmten Wert, eine Konstanten wird mit final int formuliert.
         System.out.println("" + zahl);
 
     }
